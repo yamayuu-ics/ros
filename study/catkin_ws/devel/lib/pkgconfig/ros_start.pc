@@ -1,8 +1,0 @@
-prefix=/home/yamayuu/work/ros/study/catkin_ws/devel
-
-Name: ros_start
-Description: Description of ros_start
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/yamayuu/work/ros/study/catkin_ws/devel/lib 
-Requires: 
